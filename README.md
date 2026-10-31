@@ -6,8 +6,8 @@ Public update feed for the Seam menu-bar app.
 
 ```json
 {
-  "version": "0.2.0",
-  "url": "https://github.com/OferLazmi/seam-releases/releases/download/v0.2.0/Seam.app.zip"
+  "version": "0.2.1",
+  "url": "https://github.com/OferLazmi/seam-releases/releases/download/v0.2.1/Seam.app.zip"
 }
 ```
 
